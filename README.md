@@ -1,4 +1,5 @@
-🛍️ Amazon Review Sentiment Analysis
+🛍️ Amazon Review Sentiment Analysis:
+
 This project analyzes Amazon product reviews using natural language processing (NLP) techniques to classify sentiments (Positive, Neutral, Negative) and uncover insights into customer feedback. It combines TextBlob and VADER for polarity scoring, Wilson Lower Bound for review ranking, and interactive data visualizations using Plotly and Seaborn.
 
 🔍 Features
